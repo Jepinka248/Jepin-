@@ -39,7 +39,7 @@ let tebakkalimat = db.data.game.kalimat = []
 let tebaklirik = db.data.game.lirik = []
 let tebaktebakan = db.data.game.tebakan = []
 let vote = db.data.others.vote = []
-
+let caklontong = db.data.game.warewolf = []
 // Language
 const  { ind } = require(`./language`)
 lang = ind // Language
